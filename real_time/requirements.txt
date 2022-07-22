@@ -2,6 +2,7 @@ asgiref==3.5.2
 attrs==21.4.0
 autobahn==22.6.1
 Automat==20.2.0
+autopep8==1.6.0
 cffi==1.15.1
 channels==3.0.5
 constantly==15.1.0
@@ -13,11 +14,13 @@ idna==3.3
 incremental==21.3.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
+pycodestyle==2.8.0
 pycparser==2.21
 pyOpenSSL==22.0.0
 service-identity==21.1.0
 six==1.16.0
 sqlparse==0.4.2
+toml==0.10.2
 Twisted==22.4.0
 txaio==22.2.1
 typing_extensions==4.3.0
