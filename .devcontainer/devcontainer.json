@@ -22,5 +22,12 @@
 	"remoteUser": "vscode",
 	"features": {
 		"python": "3.10"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"AnbuselvanRocky.bootstrap5-vscode"
+			]
+		}
 	}
 }

@@ -1,5 +1,5 @@
 """
-ASGI config for temporeal project.
+ASGI config for real_time project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'temporeal.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'real_time.settings')
 
 application = get_asgi_application()
