@@ -10,6 +10,7 @@ Exemplo de websocket com django django-channel com devcontainer
 
 ## Ambiente já configurado dentro do devcontainer
 
-- #Bootstrap 5 Quick Snippets (instalado)
+- extensions: Bootstrap 5 Quick Snippets (instalado)
+- extensions: Python
 - Django 
 

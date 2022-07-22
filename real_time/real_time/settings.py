@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'channels',
     'count',
 ]
 
@@ -71,6 +72,8 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'real_time.wsgi.application'
+
+ASGI_APPLICATION = 'real_time.asgi.application'
 
 
 # Database
