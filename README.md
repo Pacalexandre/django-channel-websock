@@ -13,4 +13,7 @@ Exemplo de websocket com django django-channel com devcontainer
 - extensions: nbuselvanRocky.bootstrap5-vscode Bootstrap 5 Quick Snippets (instalado)
 - extensions: ms-python.python
 - Django 
+- channels
+
+Configuração asgi para funcionar com WebSocket
 
