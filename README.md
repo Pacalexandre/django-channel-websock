@@ -1,4 +1,7 @@
 # django-channel-websock
+![](real_time/contador.png)
+
+
 Exemplo de websocket com django django-channel com devcontainer
 
 - pré requisitos 
